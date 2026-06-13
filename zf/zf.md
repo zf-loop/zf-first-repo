@@ -1,5 +1,5 @@
 # 这是我的第一个markdown文件
-在GitHub练手
+在GitHub练手，第一个分支
 
 ## 练习
 新建仓库
